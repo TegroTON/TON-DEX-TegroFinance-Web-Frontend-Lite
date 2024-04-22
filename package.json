@@ -11,7 +11,7 @@
     "@esbuild-plugins/node-globals-polyfill": "^0.1.1",
     "@esbuild-plugins/node-modules-polyfill": "^0.1.4",
     "@reduxjs/toolkit": "^2.0.1",
-    "@tonconnect/sdk": "^2.0.4",
+    "@tonconnect/sdk": "^3.0.1",
     "@tonconnect/ui-react": "^2.0.0-beta.6",
     "@types/bn.js": "^5.1.0",
     "@types/buffers": "^0.1.31",
